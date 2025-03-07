@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EfCorePractice\\Dapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3878D0BC-A32F-4653-B798-4D68F1B7B56D}|1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj|d:\\efcorepractice\\dapper\\1_dapper_executerawdynamicbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3878D0BC-A32F-4653-B798-4D68F1B7B56D}|1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj|solutionrelative:1_dapper_executerawdynamicbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|d:\\efcorepractice\\dapper\\4_dapper_executeupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|solutionrelative:4_dapper_executeupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|d:\\efcorepractice\\dapper\\4_dapper_executeupdate\\4_dapper_executeupdate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|solutionrelative:4_dapper_executeupdate\\4_dapper_executeupdate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|d:\\efcorepractice\\dapper\\3_dapper_executereturnidentityfire\\3_dapper_executereturnidentityfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|solutionrelative:3_dapper_executereturnidentityfire\\3_dapper_executereturnidentityfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE910B0-293D-4FFF-A8BE-98519CF7AD84}|1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj|d:\\efcorepractice\\dapper\\1_dapper_executesimpleinsert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE910B0-293D-4FFF-A8BE-98519CF7AD84}|1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj|solutionrelative:1_dapper_executesimpleinsert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|d:\\efcorepractice\\dapper\\3_dapper_executereturnidentityfire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|solutionrelative:3_dapper_executereturnidentityfire\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE910B0-293D-4FFF-A8BE-98519CF7AD84}|1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj|d:\\efcorepractice\\dapper\\1_dapper_executesimpleinsert\\2_dapper_executesimpleinsert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFE910B0-293D-4FFF-A8BE-98519CF7AD84}|1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj|solutionrelative:1_dapper_executesimpleinsert\\2_dapper_executesimpleinsert.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteRawDynamicBinding\\Program.cs",
+              "RelativeDocumentMoniker": "1_Dapper_ExecuteRawDynamicBinding\\Program.cs",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteRawDynamicBinding\\Program.cs",
+              "RelativeToolTip": "1_Dapper_ExecuteRawDynamicBinding\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:34:10.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4_Dapper_ExecuteUpdate",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj",
+              "RelativeDocumentMoniker": "4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj",
+              "RelativeToolTip": "4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:22:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\Program.cs",
+              "RelativeDocumentMoniker": "4_Dapper_ExecuteUpdate\\Program.cs",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\Program.cs",
+              "RelativeToolTip": "4_Dapper_ExecuteUpdate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:22:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\appsettings.json",
+              "RelativeDocumentMoniker": "3_Dapper_ExecuteReturnIdentityfire\\appsettings.json",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\appsettings.json",
+              "RelativeToolTip": "3_Dapper_ExecuteReturnIdentityfire\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T15:16:54.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3_Dapper_ExecuteReturnIdentityfire",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj",
+              "RelativeDocumentMoniker": "3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj",
+              "RelativeToolTip": "3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:16:46.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2_Dapper_ExecuteSimpleInsert",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj",
+              "RelativeDocumentMoniker": "1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj",
+              "RelativeToolTip": "1_Dapper_ExecuteSimpleInsert\\2_Dapper_ExecuteSimpleInsert.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:16:42.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteSimpleInsert\\Program.cs",
+              "RelativeDocumentMoniker": "1_Dapper_ExecuteSimpleInsert\\Program.cs",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteSimpleInsert\\Program.cs",
+              "RelativeToolTip": "1_Dapper_ExecuteSimpleInsert\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:05:25.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

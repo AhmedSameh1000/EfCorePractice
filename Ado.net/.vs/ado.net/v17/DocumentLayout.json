@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\EfCorePractice\\Ado.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EEA31FE-3466-40AC-9F2A-9A5443E2979E}|ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj|d:\\efcorepractice\\ado.net\\executesqlrow\\ef_2_executesqlrow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EEA31FE-3466-40AC-9F2A-9A5443E2979E}|ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj|solutionrelative:executesqlrow\\ef_2_executesqlrow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EEA31FE-3466-40AC-9F2A-9A5443E2979E}|ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj|d:\\efcorepractice\\ado.net\\executesqlrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EEA31FE-3466-40AC-9F2A-9A5443E2979E}|ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj|solutionrelative:executesqlrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AABC417D-CF89-45A9-9B65-10723F22422D}|Ef_4_ExecuteScaller\\Ef_4_ExecuteScaller.csproj|d:\\efcorepractice\\ado.net\\ef_4_executescaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABC417D-CF89-45A9-9B65-10723F22422D}|Ef_4_ExecuteScaller\\Ef_4_ExecuteScaller.csproj|solutionrelative:ef_4_executescaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{709D33B9-1DC1-4619-96B2-388D40F312CA}|Ef_3_ExecuteInsertRow\\Ef_3_ExecuteInsertRow.csproj|d:\\efcorepractice\\ado.net\\ef_3_executeinsertrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB86A604-E4AC-418E-A2FD-C0C10A204576}|Ef_3_ExecuteStoredProcedur\\Ef_5_ExecuteStoredProcedur.csproj|d:\\efcorepractice\\ado.net\\ef_3_executestoredprocedur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB86A604-E4AC-418E-A2FD-C0C10A204576}|Ef_3_ExecuteStoredProcedur\\Ef_5_ExecuteStoredProcedur.csproj|solutionrelative:ef_3_executestoredprocedur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AABC417D-CF89-45A9-9B65-10723F22422D}|Ef_4_ExecuteScaller\\Ef_4_ExecuteScaller.csproj|d:\\efcorepractice\\ado.net\\ef_4_executescaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AABC417D-CF89-45A9-9B65-10723F22422D}|Ef_4_ExecuteScaller\\Ef_4_ExecuteScaller.csproj|solutionrelative:ef_4_executescaller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Ef_2_ExecuteSqlRow",
+              "DocumentMoniker": "D:\\EfCorePractice\\Ado.net\\ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj",
+              "RelativeDocumentMoniker": "ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj",
+              "ToolTip": "D:\\EfCorePractice\\Ado.net\\ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj",
+              "RelativeToolTip": "ExecuteSqlRow\\Ef_2_ExecuteSqlRow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T14:45:16.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EfCorePractice\\Ado.net\\Ef_3_ExecuteStoredProcedur\\Program.cs",
               "RelativeDocumentMoniker": "Ef_3_ExecuteStoredProcedur\\Program.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Ef_3_ExecuteStoredProcedur\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:34:03.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:34:03.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EfCorePractice\\Ado.net\\Ef_4_ExecuteScaller\\Program.cs",
               "RelativeDocumentMoniker": "Ef_4_ExecuteScaller\\Program.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EfCorePractice\\Ado.net\\ExecuteSqlRow\\Program.cs",
               "RelativeDocumentMoniker": "ExecuteSqlRow\\Program.cs",
@@ -69,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EfCorePractice\\Ado.net\\Ef_3_ExecuteInsertRow\\Program.cs",
               "RelativeDocumentMoniker": "Ef_3_ExecuteInsertRow\\Program.cs",
               "ToolTip": "D:\\EfCorePractice\\Ado.net\\Ef_3_ExecuteInsertRow\\Program.cs",
               "RelativeToolTip": "Ef_3_ExecuteInsertRow\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T14:33:41.097Z",
               "EditorCaption": ""

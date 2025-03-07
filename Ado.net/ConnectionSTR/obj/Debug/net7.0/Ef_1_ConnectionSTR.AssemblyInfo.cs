@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ef_1_ConnectionSTR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af32ce0b13c3fd89801d105ff5c7a38128652cae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ef_1_ConnectionSTR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ef_1_ConnectionSTR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
