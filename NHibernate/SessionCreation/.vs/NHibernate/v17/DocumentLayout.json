@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EfCorePractice\\NHibernate\\SessionCreation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042B7747-FCE2-46DE-BEC8-0A17828CD4AB}|SessionCreation\\1_sessionCreation.csproj|d:\\efcorepractice\\nhibernate\\sessioncreation\\sessioncreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042B7747-FCE2-46DE-BEC8-0A17828CD4AB}|SessionCreation\\1_sessionCreation.csproj|solutionrelative:sessioncreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042B7747-FCE2-46DE-BEC8-0A17828CD4AB}|SessionCreation\\1_sessionCreation.csproj|d:\\efcorepractice\\nhibernate\\sessioncreation\\sessioncreation\\mapping\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042B7747-FCE2-46DE-BEC8-0A17828CD4AB}|SessionCreation\\1_sessionCreation.csproj|solutionrelative:sessioncreation\\mapping\\customermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerMapping.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\NHibernate\\SessionCreation\\SessionCreation\\mapping\\CustomerMapping.cs",
+              "RelativeDocumentMoniker": "SessionCreation\\mapping\\CustomerMapping.cs",
+              "ToolTip": "D:\\EfCorePractice\\NHibernate\\SessionCreation\\SessionCreation\\mapping\\CustomerMapping.cs",
+              "RelativeToolTip": "SessionCreation\\mapping\\CustomerMapping.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:24:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\NHibernate\\SessionCreation\\SessionCreation\\Program.cs",
+              "RelativeDocumentMoniker": "SessionCreation\\Program.cs",
+              "ToolTip": "D:\\EfCorePractice\\NHibernate\\SessionCreation\\SessionCreation\\Program.cs",
+              "RelativeToolTip": "SessionCreation\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:15:50.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

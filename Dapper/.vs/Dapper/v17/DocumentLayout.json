@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\EfCorePractice\\Dapper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3878D0BC-A32F-4653-B798-4D68F1B7B56D}|1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj|d:\\efcorepractice\\dapper\\1_dapper_executerawdynamicbinding\\1_dapper_executerawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3878D0BC-A32F-4653-B798-4D68F1B7B56D}|1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj|solutionrelative:1_dapper_executerawdynamicbinding\\1_dapper_executerawsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|d:\\efcorepractice\\dapper\\3_dapper_executereturnidentityfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C367E4BB-CFA4-4B7E-9E35-B430A38B78AA}|3_Dapper_ExecuteReturnIdentityfire\\3_Dapper_ExecuteReturnIdentityfire.csproj|solutionrelative:3_dapper_executereturnidentityfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|d:\\efcorepractice\\dapper\\4_dapper_executeupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61DF9F99-3A83-474A-8319-9EA38BCC12DC}|4_Dapper_ExecuteUpdate\\4_Dapper_ExecuteUpdate.csproj|solutionrelative:4_dapper_executeupdate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1_Dapper_ExecuteRawSql.csproj",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj",
+              "RelativeDocumentMoniker": "1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj",
+              "RelativeToolTip": "1_Dapper_ExecuteRawDynamicBinding\\1_Dapper_ExecuteRawSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T12:20:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\Program.cs",
+              "RelativeDocumentMoniker": "3_Dapper_ExecuteReturnIdentityfire\\Program.cs",
+              "ToolTip": "D:\\EfCorePractice\\Dapper\\3_Dapper_ExecuteReturnIdentityfire\\Program.cs",
+              "RelativeToolTip": "3_Dapper_ExecuteReturnIdentityfire\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:19:33.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\Program.cs",
               "RelativeDocumentMoniker": "4_Dapper_ExecuteUpdate\\Program.cs",
               "ToolTip": "D:\\EfCorePractice\\Dapper\\4_Dapper_ExecuteUpdate\\Program.cs",
               "RelativeToolTip": "4_Dapper_ExecuteUpdate\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T15:40:41.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T15:40:41.864Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_Dapper_ExecuteSimpleInsert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af32ce0b13c3fd89801d105ff5c7a38128652cae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00dcf1d3116855104fd5eb7c4748759b8d87e0d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_Dapper_ExecuteSimpleInsert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_Dapper_ExecuteSimpleInsert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
