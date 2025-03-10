@@ -1,0 +1,15 @@
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\bin\Debug\net7.0\2_sqlViewInEfCore.exe
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\bin\Debug\net7.0\2_sqlViewInEfCore.deps.json
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\bin\Debug\net7.0\2_sqlViewInEfCore.runtimeconfig.json
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\bin\Debug\net7.0\2_sqlViewInEfCore.dll
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\bin\Debug\net7.0\2_sqlViewInEfCore.pdb
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.AssemblyInfoInputs.cache
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.AssemblyInfo.cs
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.csproj.CoreCompileInputs.cache
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.sourcelink.json
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.dll
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\refint\2_sqlViewInEfCore.dll
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.pdb
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\2_sqlViewInEfCore.genruntimeconfig.cache
+D:\EfCorePractice\efCore\efCore\1_sqlViewInEfCore\obj\Debug\net7.0\ref\2_sqlViewInEfCore.dll
